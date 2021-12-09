@@ -1,0 +1,7 @@
+class Dosomthing
+{
+public static void main(String arg[])
+{ 
+system.out.println("hi this is demo projectsss");
+}
+}
